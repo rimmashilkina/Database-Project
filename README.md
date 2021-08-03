@@ -11,16 +11,12 @@ The Database was built for a restaurant management system.
 ● Tables were normalized to BCNF.<br>
 ● Table indexes were created to increase queries efficiency.<br>
 ● The cost of the various queries was calculated.<br>
- 
-<br>
-<br>
 UI was built to perform various operations for the restaurant management system. The
 application has the below features.<br>
 ● Manage Employees - Add/Modify/Delete<br>
 ● Manage Customers - Add/ Modify/Delete<br>
 ● Manage Orders - Add/Modify/Delete<br>
 ● Manage Delivery Areas - Add/Modify/Delete<br>
-
 <br>
 <be>
 <b>Business rules</b>
